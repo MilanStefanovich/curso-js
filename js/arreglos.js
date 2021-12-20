@@ -9,3 +9,4 @@ let arregloCosas = [
     ['x','fdsfs','aaaaaaasd']
 ]
 console.log(arregloCosas[3])
+// hice un commit y funcino
