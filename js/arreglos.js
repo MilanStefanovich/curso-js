@@ -10,3 +10,4 @@ let arregloCosas = [
 ]
 console.log(arregloCosas[3])
 // hice un commit y funcino
+// si funciona confirmo
